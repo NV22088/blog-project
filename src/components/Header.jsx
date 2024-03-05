@@ -26,7 +26,7 @@ const Header = () => {
                   <a href="/">Faq</a>
                 </li>
               </ul>
-              <button>Sing in</button>
+              <button className="bg-blue-500">Sing in</button>
             </div>
         </Header>
     </section>
